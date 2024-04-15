@@ -26,7 +26,7 @@
 
 <br>
 
-5. Stand로 되어있던 토글을 Emoticon으로 바꿔줍니다.
+5. Stand로 되어있던 토글을 Emoticon으로 바꿔줍니다. Emoticon의 15번째가 스탠딩 모션에 가장 가깝습니다.
 
 <img width="1680" alt="스크린샷 2023-04-22 오전 2 56 24" src="https://user-images.githubusercontent.com/75712723/233703477-1115d384-15c6-4e15-a454-46fded64f8c8.png">
 
