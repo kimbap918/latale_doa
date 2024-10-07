@@ -44,3 +44,7 @@
    임시방편이지만 도아라떼를 즐겨봅시다.
 
 <img width="1680" alt="스크린샷 2023-04-22 오전 3 02 00" src="https://user-images.githubusercontent.com/75712723/233704368-740b7ae2-a534-4c0a-a335-f2f81d8f3868.png">
+
+
+## Error Code:0 발생 시 참고 글
+https://gall.dcinside.com/mgallery/board/view/?id=laf&no=30427&exception_mode=recommend&search_pos=-30931&s_type=search_name&s_keyword=%EC%9C%84%EB%A1%80%EC%84%B1&page=1
